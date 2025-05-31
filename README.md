@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/993467414.svg)](https://doi.org/10.5281/zenodo.15558012)
 
-The supplementary material of our submission to ICSE 2026 is structured as follows:
+The supplementary material of our submission to ASE 2025 is structured as follows:
 
 - **datasets**: This directory contains dataset for binary relevance annotations, the criteria used to rate GUI descriptions, the generated GUI HTML/CSS files for all the different zero-shot prompting approaches, the LLM-generated GUI re-rankings on the gold standard with different temperature settings, the FP analysis of the LLM-based binary relevance filtering, the annotation results of the Rico GUI samples, our official split of validation and test GUI description data and the main evaluation dataset containing all model and GUI description combinations that we annotated in Prolific
 - **evaluation**: This directory contains scripts used to compute the main evaluation results and statistical test. In addition, it also contains the box plots and test result data
